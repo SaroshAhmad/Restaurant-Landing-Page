@@ -11,3 +11,16 @@
     padding: 20px 10%;
     background-color: bisque;
 }
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo-img {
+    width: 150px;
+    cursor: pointer;
+
+}
