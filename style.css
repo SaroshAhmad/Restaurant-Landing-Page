@@ -24,3 +24,14 @@ nav .logo-img {
     cursor: pointer;
 
 }
+
+nav .menu-img {
+    width: 150px;
+    cursor: pointer;
+}
+
+nav ul {
+    flex: 1;
+    text-align: right;
+    margin-right: 150px;
+}
