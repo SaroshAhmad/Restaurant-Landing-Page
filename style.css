@@ -97,3 +97,15 @@ nav ul li a:hover::before {
     font-size: 40px;
     font-weight: 600;
 }
+
+.col a {
+    text-decoration: none;
+    padding: 18px 50px;
+    border-radius: 30px;
+    background: #d9f688;
+    display: inline-block;
+    color: #000;
+    font-weight: 700;
+    margin-top: 70px;
+    box-shadow: 5px 8px 10px rgba(0, 0, 0, 0.1);
+}
